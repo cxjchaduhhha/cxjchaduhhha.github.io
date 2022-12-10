@@ -13,7 +13,7 @@
 	-o-background-size: cover;
 	background-size: cover;
 	background-color: #000;
-	background-image: url(%E8%83%8C%E6%99%AF.jpg);
+	background-image:https://pic3.zhimg.com/v2-5ab0e9362d0f22d474758ab2da8a8efe_r.jpg;
 	color: #0CF;
         }
     </style>
