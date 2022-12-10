@@ -14,11 +14,13 @@
 	background-size: cover;
 	background-color: #000;
 	background-image: url(%E8%83%8C%E6%99%AF.jpg);
+	color: #0CF;
         }
     </style>
 </head>
 <body>
 <canvas id="mycanvas"></canvas>
+<span style="font-size: 70px">dreamming zi带你看烟花</span>
 <script>
     //window.requestAnimationFrame()这个API是浏览器提供的js全局方法，针对动画效果。
     window.requestAnimationFrame=(function(){
@@ -207,9 +209,6 @@
         }
     }
     window.οnlοad=loop();
-</script>
-
-</body>
+</script></body>
 
 </html>
-
